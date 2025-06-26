@@ -4,6 +4,13 @@
 
 **J2EE-Security-with-db** is a practical Java EE project that demonstrates how to implement robust authentication and role-based authorization using a database-backed identity store. The project leverages Jakarta EE Security API, servlets, and Hibernate ORM to securely manage user credentials, roles, and access control for web resources. This project is ideal for learning how to build secure, scalable enterprise applications with real database integration.
 
+---
+
+## 📽️ Demo Video
+[![J2EE-Security-with-db Project Demo](https://github.com/chamikathereal/J2EE-Security-with-db/blob/main/J2EE-Security-with-db.png)](https://youtu.be/LIOgI5a6gPg)
+
+---
+
 ## 🗂️ Project Structure
 
 ```
